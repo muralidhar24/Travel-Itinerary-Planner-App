@@ -1,0 +1,53 @@
+{
+  "@@locale": "en",
+  "app_name": "Travel Planner",
+  "profile_title": "Profile",
+  "edit_profile": "Edit Profile",
+  "name": "Name",
+  "email": "Email",
+  "cancel": "Cancel",
+  "save": "Save",
+  "profile_updated": "Profile updated!",
+  "profile_update_failed": "Failed to update profile.",
+  "my_bookings": "My Bookings",
+  "view_and_manage_bookings": "View and manage your bookings",
+  "travel_preferences": "Travel Preferences",
+  "notifications": "Notifications",
+  "privacy_security": "Privacy & Security",
+  "help_support": "Help & Support",
+  "about": "About",
+  "logout": "Logout",
+  "logout_confirmation": "Are you sure you want to logout?",
+  "upcoming_booking_notification": "Upcoming booking: {title}",
+  "@upcoming_booking_notification": {
+    "description": "Notification displayed when the user has an upcoming booking.",
+    "placeholders": {
+      "title": {}
+    }
+  },
+  "new_feature_notification": "New feature: {feature}",
+  "@new_feature_notification": {
+    "description": "Notification displayed when the app announces new features.",
+    "placeholders": {
+      "feature": {}
+    }
+  },
+  "new_user_notification": "Welcome {name}!",
+  "@new_user_notification": {
+    "description": "Notification displayed when a new user signs in.",
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "language": "Language",
+  "location_services": "Location Services",
+  "back": "Back",
+  "explore_destinations": "Explore Destinations",
+  "notifications_title": "Notifications",
+  "no_bookings": "No bookings yet.",
+  "view_all": "View All",
+  "upcoming_trips": "Upcoming Trips",
+  "current_location": "Current Location",
+  "nearby_destinations": "Nearby Destinations",
+  "notifications_empty": "You are all caught up!"
+}
